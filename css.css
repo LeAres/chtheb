@@ -1,0 +1,29 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+    display:block ; /* remove extra space below image */
+    border-radius: 8px;
+}
+.box{
+margin-top: 5%;
+width: 550px;        
+margin-left: 36%;
+border: 5px solid black;
+
+}
+
+
+body {
+background-color: rgb(248, 177,149);
+
+}
+
+.container{
+display: flex;
+}
+.box {
+border: 5px solid black;
+height: 400px;
+width: 500px;
+margin-right: 50%;
+}

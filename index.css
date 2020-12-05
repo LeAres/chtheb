@@ -1,0 +1,61 @@
+
+/*NAV BAR*/
+.bg-color  { 
+  background-color:#355c7d;
+ }
+ .navbar-nav a {
+  font-family: 'Nunito Sans', sans-serif;
+ }
+
+ .navbar-nav {
+   margin-left: auto;   
+ }
+ /* IMAGE LOULA */
+
+body {
+background-color: rgb(248, 177,149);
+}
+/*containerflex*/
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.flex-container .box {
+  background-color: rgb(248, 177,149);
+  width: 500px;
+  height: 600px;
+  margin: 15px;
+  text-align: center;
+  line-height: 70px;
+  font-size: 30px;
+  margin-top: 7%;
+  
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  max-width: 100%;
+  border-radius: 8px;
+
+}
+img .img {
+  width: 550px; 
+  align-self: center;
+ 
+}
+.box h1 {
+  margin-right: 60%;
+  font-family: 'Castoro', serif;
+  color: white;
+}
+.box p {
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin-right: 60%;
+}
+box{
+
+}
